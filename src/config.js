@@ -1,0 +1,1 @@
+export const DVOTING_ADDRESS = process.env.REACT_APP_DVOTING_ADDRESS;
